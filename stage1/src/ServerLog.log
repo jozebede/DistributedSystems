@@ -1,8 +1,0 @@
-Oct 04, 2021 3:46:52 PM edu.yu.cs.com3800.stage1.SimpleServerImpl startLog
-INFO: Starting log from SERVER
-Oct 04, 2021 3:46:52 PM edu.yu.cs.com3800.stage1.SimpleServerImpl <init>
-INFO: this message is from the server constructor
-Oct 04, 2021 3:46:52 PM edu.yu.cs.com3800.stage1.SimpleServerImpl start
-INFO:  Server started on port:  8000
-Oct 04, 2021 3:46:57 PM edu.yu.cs.com3800.stage1.MyHandler handle
-INFO: now we  are in the Handler!
